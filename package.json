@@ -4,7 +4,7 @@
   "description": "Meteor kitchen generator one json from small json files",
   "main": "generate.js",
   "dependencies": {
-    "deepjson": "^1.0.1",
+    "deepjson": "git://github.com/baysao/deep-json.git",
     "jsonfile": "^2.0.0",
     "lodash": "^3.5.0"
   },
